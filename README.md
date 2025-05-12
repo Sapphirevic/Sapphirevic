@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1,ffc0cb,ff69b4&height=200&section=header&text=Hey%20I'm%20Victoria%20💕&fontSize=40&fontColor=fff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1,ffc0cb,ff69b4&height=200&section=header&text=Hey%20there,%20I'm%20Victoria%20💕&fontSize=40&fontColor=fff&animation=fadeIn" />
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&color=FF69B4&center=true&vCenter=true&lines=Building+tech+with+empathy.;Empowering+womens+health+with+AI.;Mentoring+future+tech+leaders.;Learning+every+day+💡" />
 </p>
