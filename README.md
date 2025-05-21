@@ -5,11 +5,11 @@
 
 ---
 
-## 🌸 About Me — _“Soft on the outside, serious about data on the inside.”_
+## 🌸 About Me — _“Soft but passionate about data.”_
 
 - 🎓 BS Business Admisnistration(Supply Chain Management)
 - 👩🏾‍⚕️ Founder of **Whisper Health** – Reproductive health, reimagined.
-- 🧠 Passionate about **TinyML**, **Time Series**, **Responsible AL** and **Ethical AI**
+- 🧠 Interst in **ML**, **Deep Learning**, **Health Data science**, **Time Series**, **Responsible AL** and **Ethical AI**
 - 💬 Mentor & educator 
 - 🌍 Ghanaian 🇬🇭 navigating global impact with grace
 
