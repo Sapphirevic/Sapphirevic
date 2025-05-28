@@ -7,7 +7,7 @@
 
 ## 🌸 About Me — _“Soft but passionate about data.”_
 
-- 🎓 BS Business Admisnistration(Supply Chain Management)
+- 🎓 BSc Business Admisnistration(Supply Chain Management)
 - 👩🏾‍⚕️ Founder of **Whisper Health** – Reproductive health, reimagined.
 - 🧠 Interst in **ML**, **Deep Learning**, **Health Data science**, **Time Series**, **Responsible AL** and **Ethical AI**
 - 💬 Mentor & educator 
@@ -21,7 +21,7 @@
 Languages:        Python 🐍 | SQL 🛢 | DAX | Spreadsheet ✨
 Frameworks:       PyTorch 🔥 | FastAI | tsai| Flask
 Tools:            Git | Cursor | VS Code | Notion 💭
-Visualization:    Plotly 🎨 | Seaborn 🌊 | Matplotlib 📊
+Visualization:    PowerBi | Plotly 🎨 | Seaborn 🌊 | Matplotlib 📊
 ````
 ## 📊 GitHub Stats
 
