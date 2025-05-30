@@ -19,7 +19,7 @@
 
 ```yaml
 Languages:        Python 🐍 | SQL 🛢 | DAX | Spreadsheet ✨
-Frameworks:       PyTorch 🔥 | FastAI | tsai| Flask
+Frameworks:       PyTorch 🔥 | FastAI | tsai
 Tools:            Git | Cursor | VS Code | Notion 💭
 Visualization:    PowerBi | Plotly 🎨 | Seaborn 🌊 | Matplotlib 📊
 ````
