@@ -7,7 +7,7 @@
 
 ## 🌸 About Me — _“Soft but passionate about data.”_
 
-- 🎓 BSc Business Admisnistration(Supply Chain Management)
+- 🎓 BSc Business Administration(Supply Chain Management)
 - 👩🏾‍⚕️ Founder of **Whisper Health** – Reproductive health, reimagined.
 - 🧠 Interst in **ML**, **Deep Learning**, **Health Data science**, **Time Series**, **Responsible AL** and **Ethical AI**
 - 💬 Mentor & educator 
