@@ -18,8 +18,8 @@
 ## 💖 Tech Toolbox
 
 ```yaml
-Languages:        Python 🐍 | SQL 🛢 | DAX | Spreadsheet ✨
-Frameworks:       PyTorch 🔥 | FastAI | tsai
+Languages:        Python 🐍 | SQL 🛢 | DAX ✨
+Frameworks:       PyTorch 🔥 | FastAI | TensorFlow | tsai | Langchain | RaG
 Tools:            Git | Cursor | VS Code | Notion 💭
 Visualization:    PowerBi | Plotly 🎨 | Seaborn 🌊 | Matplotlib 📊
 ````
